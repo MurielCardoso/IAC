@@ -1,4 +1,3 @@
 # IAC
 primeira-aula-git
-# teste
-alguma coisa
+* eu estou na main
